@@ -1,0 +1,6 @@
+train: C:\Users\BRUNO\Downloads\model\train
+val: C:\Users\BRUNO\Downloads\model\val
+
+nc: 2
+
+names: ["aruco marker","book"]
